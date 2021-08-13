@@ -17,6 +17,7 @@ $ cd client && npm run build
 Then run the express server. This must be in the root of the application.
 
 ```
+$ npm i
 $ npm run start
 ```
 
